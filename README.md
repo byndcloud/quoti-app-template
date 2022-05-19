@@ -1,4 +1,4 @@
-[externalLink]: <http://daringfireball.net/projects/markdown/>
+[externalLink]: <https://www.notion.so/beyondco/Templates-de-extens-es-para-o-Quoti-794e667d17e54072b2cc31deb1dddaca>
 # Templates para extensões do Quoti
 Este repositório contém templates para extensões com ou sem build utilizadas na plataforma Quoti.
 
