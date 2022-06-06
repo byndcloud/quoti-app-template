@@ -53,8 +53,7 @@
   ],
   "quoti": {
     "extensions": [
-      "src/pages/extension1/index.vue",
-      "src/pages/extension2/index.vue"
+      "src/pages/extension1/index.vue"
     ]
   }
 }
