@@ -1,5 +1,4 @@
 node_modules/
-./*/**/manifest.json
 ./*/**/dist
 .env*
 dist/
